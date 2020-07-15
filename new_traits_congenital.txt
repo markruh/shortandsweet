@@ -1,0 +1,10 @@
+dummy_thicc = {
+  potential = {
+    age = 16
+  }
+  birth = 25
+                      # unfinished: requires inheritance_chance, both_parent_has_trait_inheritance_chance, AI weights, compliments, fertility modifier, opposites (frail, etc), ruler_designer_cost
+  diplomacy = 3
+
+  general_opinion = 10
+}
